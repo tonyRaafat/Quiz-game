@@ -1,0 +1,10 @@
+@import url(./base.css);
+#app{
+  /* padding: 9px; */
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  overflow-wrap: break-word;
+}
